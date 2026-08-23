@@ -1,0 +1,17 @@
+{
+  "enableWorkflows": true,
+  "enabledPlugins": {
+    "riley-pm-skills@riley-pm-skills": true,
+    "pm-skills-deanpeters@riley-pm-skills": true,
+    "pm-skills-digidai@riley-pm-skills": true
+  },
+  "extraKnownMarketplaces": {
+    "riley-pm-skills": {
+      "source": {
+        "source": "github",
+        "repo": "rileytrottier23/riley-pm-skills"
+      }
+    }
+  },
+  "autoUpdatesChannel": "latest"
+}
