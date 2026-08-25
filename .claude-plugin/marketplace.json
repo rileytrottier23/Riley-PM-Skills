@@ -13,21 +13,21 @@
       "name": "riley-pm-skills",
       "description": "Riley's own product-management skills: PRD and spec writing, stakeholder decks, competitive research reports.",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": ["./mine/"]
     },
     {
       "name": "pm-skills-deanpeters",
       "description": "12 product-management skills by Dean Peters (Productside), CC BY-NC-SA 4.0: discovery, JTBD, prioritization, roadmapping, PoL probes, user stories.",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": ["./vendored/deanpeters-product-manager-skills/"]
     },
     {
       "name": "pm-skills-digidai",
       "description": "Gene Dai's product-manager-skills (CC BY-NC-SA 4.0): SaaS metrics diagnosis, PRD critique, PLG growth strategy, PM career coaching.",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": ["./vendored/digidai-product-manager-skills/"]
     }
   ]
