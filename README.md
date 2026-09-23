@@ -8,7 +8,7 @@ alongside [riley-coding-skills](https://github.com/rileytrottier23/riley-coding-
 Each skill is a folder containing a `SKILL.md`: an instruction set Claude loads when the skill's
 description matches what you are asking for. They work in Claude Projects, Claude Code, and Cowork.
 
-**This repo is also a plugin marketplace** — 16 skills installable in one step. See [Install](#install).
+**This repo is also a plugin marketplace** — 18 skills installable in one step. See [Install](#install).
 
 ## Layout: `mine/` vs `vendored/`
 
@@ -30,7 +30,7 @@ Three plugins, install whichever you want:
 
 | Plugin | Skills | What's in it |
 |---|---|---|
-| `riley-pm-skills` | 3 | My PM skills — PRDs, stakeholder decks, competitive research |
+| `riley-pm-skills` | 5 | My PM skills — PRDs and FDDs, rule specs, stakeholder decks, competitive research |
 | `pm-skills-deanpeters` | 12 | Dean Peters' PM skills (CC BY-NC-SA 4.0) |
 | `pm-skills-digidai` | 1 | Gene Dai's PM skill pack (CC BY-NC-SA 4.0) |
 
@@ -41,6 +41,8 @@ Three plugins, install whichever you want:
 | [prd-spec-writer](./mine/prd-spec-writer) | Writes PRDs, product specs, feature briefs, and technical design docs — problem framing, success metrics, requirements, open questions. Tuned for agentic AI infrastructure work. |
 | [stakeholder-deck-builder](./mine/stakeholder-deck-builder) | Builds executive and stakeholder decks: narrative arc, exec-ready framing, data-backed storytelling. Outputs slide outlines or full .pptx files. |
 | [competitive-research-report](./mine/competitive-research-report) | Produces structured competitive analysis, market research, and technology landscape reports for senior PM and exec audiences. |
+| [deterministic-logic-spec](./mine/deterministic-logic-spec) | Turns a standalone business rule into a decision table and Given/When/Then acceptance criteria. |
+| [fdd-writer](./mine/fdd-writer) | Writes FDD and PRD sections in house style: warm 101 primers, tight declarative spec sections. |
 
 ## Vendored skills (`vendored/`)
 
