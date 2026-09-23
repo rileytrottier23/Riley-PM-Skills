@@ -6,12 +6,12 @@
   },
   "metadata": {
     "description": "Riley's product-management skills: PRD and spec writing, stakeholder decks, competitive research, plus vendored PM collections from Dean Peters and Gene Dai.",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "plugins": [
     {
       "name": "riley-pm-skills",
-      "description": "Riley's own product-management skills: PRD and spec writing, stakeholder decks, competitive research reports.",
+      "description": "Riley's own product-management skills: PRD, FDD, and business-rule spec writing, stakeholder decks, competitive research reports.",
       "source": "./",
       "strict": false,
       "skills": [
