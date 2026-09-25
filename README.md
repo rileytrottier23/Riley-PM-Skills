@@ -2,7 +2,7 @@
 
 Product-management Claude skills — PRDs, specs, stakeholder decks, competitive research, and vendored PM
 collections. Versioned here rather than left in a chat history. Part of a three-repo skills library
-alongside [riley-coding-skills](https://github.com/rileytrottier23/riley-coding-skills) and
+alongside [riley-coding-skills](https://github.com/rileytrottier23/Riley-Coding-Skills) and
 [riley-thinking-skills](https://github.com/rileytrottier23/riley-thinking-skills).
 
 Each skill is a folder containing a `SKILL.md`: an instruction set Claude loads when the skill's
@@ -19,12 +19,12 @@ description matches what you are asking for. They work in Claude Projects, Claud
 ## Install
 
 ```
-/plugin marketplace add rileytrottier23/riley-pm-skills
+/plugin marketplace add rileytrottier23/Riley-PM-Skills
 /plugin install riley-pm-skills@riley-pm-skills
 ```
 
 **Claude desktop app / Cowork:** Customize → Plugins → Personal plugins → **+** → Add marketplace →
-Add from a repository → `rileytrottier23/riley-pm-skills`
+Add from a repository → `rileytrottier23/Riley-PM-Skills`
 
 Three plugins, install whichever you want:
 
