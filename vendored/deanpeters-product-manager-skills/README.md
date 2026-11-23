@@ -1,7 +1,7 @@
 # Product-Manager-Skills — Dean Peters
 
 Twelve skills from [deanpeters/Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills),
-by **Dean Peters** (Productside). Vendored at upstream `a03af68`, synced 2026-08-18.
+by **Dean Peters** (Productside). Vendored at upstream `476ae12` (v0.86), synced 2026-11-16.
 
 Upstream carries 77 skills; these twelve are the subset I pulled. Grab the rest from source if you need them.
 
