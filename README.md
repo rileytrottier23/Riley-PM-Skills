@@ -8,7 +8,7 @@ alongside [riley-coding-skills](https://github.com/rileytrottier23/Riley-Coding-
 Each skill is a folder containing a `SKILL.md`: an instruction set Claude loads when the skill's
 description matches what you are asking for. They work in Claude Projects, Claude Code, and Cowork.
 
-**This repo is also a plugin marketplace**, with 16 skills installable in one step. See [Install](#install).
+**This repo is also a plugin marketplace**, with 15 skills installable in one step. See [Install](#install).
 
 ## Layout: `mine/` vs `vendored/`
 
@@ -26,13 +26,12 @@ description matches what you are asking for. They work in Claude Projects, Claud
 **Claude desktop app / Cowork:** Customize → Plugins → Personal plugins → **+** → Add marketplace →
 Add from a repository → `rileytrottier23/Riley-PM-Skills`
 
-Three plugins, install whichever you want:
+Two plugins, install whichever you want:
 
 | Plugin | Skills | What's in it |
 |---|---|---|
 | `riley-pm-skills` | 3 | My PM skills: PRDs and specs, stakeholder decks, competitive research |
 | `pm-skills-deanpeters` | 12 | Dean Peters' PM skills (CC BY-NC-SA 4.0) |
-| `pm-skills-digidai` | 1 | Gene Dai's PM skill pack (CC BY-NC-SA 4.0) |
 
 ## My skills (`mine/`)
 
@@ -47,9 +46,8 @@ Three plugins, install whichever you want:
 | Collection | Author | Skills | License |
 |---|---|---|---|
 | [deanpeters-product-manager-skills](./vendored/deanpeters-product-manager-skills) | [Dean Peters](https://github.com/deanpeters/Product-Manager-Skills) (Productside) | 12 | CC BY-NC-SA 4.0 |
-| [digidai-product-manager-skills](./vendored/digidai-product-manager-skills) | [Gene Dai](https://github.com/Digidai/product-manager-skills) | 1 (large, multi-part) | CC BY-NC-SA 4.0 |
 
-Both are Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Redistribution with attribution is
+It is Creative Commons Attribution-NonCommercial-ShareAlike 4.0. Redistribution with attribution is
 exactly what that license allows, which is why they can live here. The **NonCommercial** term restricts
 *use*, not hosting. If you are reaching for one of these inside a job, read the license terms yourself
 first. Not legal advice. Each folder is a pinned snapshot; updating means a fresh vendor commit against a

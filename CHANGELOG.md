@@ -2,6 +2,8 @@
 
 Newest first.
 
+- 2026-11-25 — Removed the `pm-skills-digidai` plugin and `vendored/digidai-product-manager-skills`: it overlapped `prd-spec-writer` and the Dean Peters pack and never loaded. 15 skills total. (v1.3.0)
+
 - 2026-11-16 — Re-synced vendored Dean Peters skills a03af68 → 476ae12 (v0.86). Eight of the twelve changed:
   the advisor and workflow skills now open in a default "Guided" entry mode in the same turn instead of
   waiting for a mode pick, `ai-shaped-readiness-advisor` shows a Known / Assumed / Missing / Conflicting
